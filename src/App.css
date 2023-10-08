@@ -1,0 +1,15 @@
+:root {
+  background-color: #000;
+}
+
+App {
+  margin: 0 auto;
+  
+}
+
+.App h1 {
+  font-size: 1.5rem;
+  margin: 0 110px;
+  color: #ffffff;
+}
+
