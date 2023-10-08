@@ -1,10 +1,5 @@
-:root {
-  background-color: #171717;
-}
-
-App {
+.App {
   margin: 0 auto;
-  
 }
 
 .App h1 {
