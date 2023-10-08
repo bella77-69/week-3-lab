@@ -2,9 +2,6 @@ import React from "react";
 import playBtn from "../assets/play-btn.png";
 
 const AlbumItem = ({ album }) => {
-  if (!album) {
-    return <div>No album selected</div>;
-  }
 
   return (
     <div className="album-detail">
